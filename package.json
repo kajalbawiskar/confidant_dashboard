@@ -1,0 +1,80 @@
+{
+  "name": "project_syncfusion_dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://www.confidanto.com/user-dashboard",
+  "dependencies": {
+    "@syncfusion/ej2": "^19.4.48",
+    "@syncfusion/ej2-react-calendars": "^19.4.48",
+    "@syncfusion/ej2-react-charts": "^19.4.50",
+    "@syncfusion/ej2-react-dropdowns": "^19.4.52",
+    "@syncfusion/ej2-react-grids": "^19.4.50",
+    "@syncfusion/ej2-react-inputs": "^19.4.52",
+    "@syncfusion/ej2-react-kanban": "^19.4.48",
+    "@syncfusion/ej2-react-popups": "^19.4.52",
+    "@syncfusion/ej2-react-richtexteditor": "^19.4.50",
+    "@syncfusion/ej2-react-schedule": "^19.4.50",
+    "@syncfusion/ej2-react-splitbuttons": "^24.2.5",
+    "axios": "^1.6.7",
+    "browserify": "^17.0.0",
+    "chart.js": "^4.4.1",
+    "country-list": "^2.3.0",
+    "https": "^1.0.0",
+    "https-browserify": "^1.0.0",
+    "jspdf": "^2.5.1",
+    "plotly.js": "^2.29.1",
+    "querystring-es3": "^0.2.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-fast-marquee": "^1.6.4",
+    "react-google-login": "^5.2.2",
+    "react-google-recaptcha": "^3.1.0",
+    "react-hook-form": "^7.51.0",
+    "react-icons": "^4.12.0",
+    "react-load-script": "^0.0.6",
+    "react-marquee-slider": "^1.1.5",
+    "react-plotly.js": "^2.6.0",
+    "react-plotlyjs": "^0.4.4",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "react-select": "^5.8.0",
+    "serpapi": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.19",
+    "vite": "^5.1.0"
+  }
+}
